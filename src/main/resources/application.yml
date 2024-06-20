@@ -1,0 +1,7 @@
+weixin:
+  mp:
+    app-id: your_app_id
+    secret: your_app_secret
+    token: your_token
+    aesKey: your_aes_key
+
